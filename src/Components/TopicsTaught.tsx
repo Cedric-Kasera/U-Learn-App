@@ -6,7 +6,9 @@ function TopicsTaught() {
       </div>
       <div className="grid grid-cols-2 gap-4 lg:grid-cols-5 lg:gap-5 lg:py-12">
           <a href="#">
-            <div className="h-16 rounded-lg bg-gray-400"></div>
+            <div className="h-16 rounded-lg bg-gray-400">
+                <img src="./courses/Course-SAT.png" alt="" />
+            </div>
           </a>
           <a href="#">
             <div className="h-16 rounded-lg bg-gray-400"></div>
