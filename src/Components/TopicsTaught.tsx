@@ -4,7 +4,7 @@ function TopicsTaught() {
   return (
     <section className="flex flex-col py-6 gap-6 px-3 md:py-16 md:px-40 bg-[#f7fafc]">
       <div className="flex items-center justify-center text-2xl font-bold">
-        <h1 className="underline underline-offset-[8px] decoration-blue-600 decoration-4">
+        <h1 className="underline underline-offset-[8px] decoration-blue-400 decoration-4">
           Check out Our Courses <span>📖</span>
         </h1>
       </div>
