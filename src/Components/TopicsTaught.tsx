@@ -127,7 +127,7 @@ function TopicsTaught() {
             Statistics
           </p>
         </a>
-        <a href="#" className="flex flex-row items-center justify-center gap-2">
+        <a href="#" className="flex flex-row items-center justify-center gap-2 text-blue-600 hover:text-blue-700 text-base font-sans font-semibold">
             <p>See All Subjects</p>
             <HiChevronRight />
         </a>
