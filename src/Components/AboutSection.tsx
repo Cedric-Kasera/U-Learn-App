@@ -1,7 +1,7 @@
 function AboutSection() {
   return (
     <section className="flex flex-row items-center justify-center bg-[#ECF6FFff] pb-10">
-      <div className="static mx-auto max-w-screen-xl px-4 py-4 md:py lg:py-[72px] lg:flex lg:items-center lg:px-14 gap-8 bg-[#e2e9f0] rounded-md">
+      <div className="mx-auto max-w-screen-xl px-4 py-4 md:py lg:py-[72px] lg:flex lg:items-center lg:px-14 gap-8 bg-[#e2e9f0] rounded-md">
         <div className="lg:max-w-[50%] text-left ltr:sm:text-left rtl:sm:text-right py-5">
           <h1 className="text-[14px] font-bold font-sans text-[#718096] flex flex-row gap-2">
             <span>FROM THE FOUNDER OF</span>{" "}
