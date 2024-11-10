@@ -1,6 +1,7 @@
 import AboutSection from "../Components/AboutSection"
 import Navbar from "../Components/Common/Navbar/Navbar"
 import HeroSection from "../Components/HeroSection"
+import Info from "../Components/Info"
 import TopicsTaught from "../Components/TopicsTaught"
 
 function Home() {
@@ -10,7 +11,7 @@ function Home() {
       <HeroSection/>
       <AboutSection/>
       <TopicsTaught/>
-      <TopicsTaught/>
+      <Info/>
     </div>
   )
 }
